@@ -1,9 +1,5 @@
 # Holiday-Planner
-Here’s a `README.md` file for your Python project that scrapes hotel data from Booking.com using BeautifulSoup and saves it into a CSV file:
 
----
-
-# 🏨 Hotel Data Scraper for Booking.com
 
 This Python script scrapes hotel listings for Paris from [Booking.com](https://www.booking.com/) and extracts details like hotel name, location, price, and rating. The data is saved in a CSV file for further analysis or usage.
 
